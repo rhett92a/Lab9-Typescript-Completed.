@@ -1,0 +1,27 @@
+{
+  "name": "lab9-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "watch": "tsc --watch",
+    "serve": "browser-sync start --server --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FSCJ-TechFinTech/Lab9-Typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/FSCJ-TechFinTech/Lab9-Typescript/issues"
+  },
+  "homepage": "https://github.com/FSCJ-TechFinTech/Lab9-Typescript#readme",
+  "devDependencies": {
+    "browser-sync": "^3.0.4",
+    "typescript": "3.4.4"
+  }
+}
